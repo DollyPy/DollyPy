@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Daniel Dolapo
-- 👀 I’m interested in Web Development and Data science
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on python related project
+- 👀 I’m interested in full stack Web Development and Data Engineering and Data Science
+- 🌱 I’m currently learning Machine Learning,
+- 💞️ I’m looking to collaborate on python and Web development related project
 - 📫 How to reach me ddolapo1@gmail.com
 
 <!---
