@@ -1,9 +1,17 @@
-- 👋 Hi, I’m Daniel Dolapo
-- 👀 I’m interested in full stack Web Development and Data Engineering and Data Science
-- 🌱 I’m currently learning Machine Learning,
-- 💞️ I’m looking to collaborate on python and Web development related project
-- 📫 How to reach me ddolapo1@gmail.com
+Web Developer | Data Analyst/ Science  Enthusiast | Machine Learning Engineer
 
+## Side Projects
+### Web Applications
+- Combuter Based Examination System
+- Content Management System for Cooperative Social
+- Web Application Testing platform
+
+### Machine Learning 
+- Finger print Based Age Detection
+- Course Recommendation  Model
+- Face Detection/Recognition 
+
+- 📫 How to reach me ddolapo1@gmail.com
 <!---
 DollyPy/DollyPy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
