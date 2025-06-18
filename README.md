@@ -40,7 +40,7 @@ I'm a passionate and curious technologist with hands-on experience building solu
 
 ## 📫 Let's Connect!
 💌 Email: **ddolapo1@gmail.com**  
-🔗 LinkedIn, Portfolio, or additional links: *(Add them if you have any)*
+<!--🔗 LinkedIn, Portfolio, or additional links: *(Add them if you have any)*-->
 
 <!---
 DollyPy/DollyPy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
