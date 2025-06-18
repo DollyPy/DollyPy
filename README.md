@@ -1,10 +1,8 @@
-# 👋 Hi there, I'm Dolapo!
+**Senior Data Science Associate | Machine Learning Engineer**
 
-**Web Developer | Data Analyst / Science Enthusiast | Machine Learning Engineer**
+I'm a passionate and curious technologist with hands-on experience building solutions across **data science**, **machine learning**, and interestingly **Web Development**. I enjoy building things that are impactful, efficient, and scalable—whether it's a full-stack web app, a predictive ML model, or a data-driven dashboard.
 
-I'm a passionate and curious technologist with hands-on experience building solutions across **web development**, **data science**, and **machine learning**. I enjoy building things that are impactful, efficient, and scalable—whether it's a full-stack web app, a predictive ML model, or a data-driven dashboard.
-
-[![@dollypy's Holopin board](https://holopin.io/api/user/board?user=dollypy)](https://holopin.io/@dollypy)
+<!--[![@dollypy's Holopin board](https://holopin.io/api/user/board?user=dollypy)](https://holopin.io/@dollypy) -->
 
 ---
 
