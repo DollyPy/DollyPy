@@ -10,7 +10,7 @@
 I connect business systems, databases and reporting tools with AI so that teams spend less time on manual data work. My background runs from **software development** to **data science** to **AI automation**, so I'm comfortable anywhere from a database schema to an LLM agent.
 
 - Right now I'm building **AI automations and reporting pipelines** at 10Alytics: agents, RAG systems and dashboards that replace manual work
-- Remote from Nigeria · available for U.S. business hours
+- Remote from Nigeria
 - Open to **AI automation, systems integration and data** roles
 
 <!--[![@dollypy's Holopin board](https://holopin.io/api/user/board?user=dollypy)](https://holopin.io/@dollypy) -->
